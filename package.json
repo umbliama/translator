@@ -1,0 +1,32 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "description": "Creating sites template",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umbliama/template.git"
+  },
+  "keywords": [
+    "template",
+    "gulp"
+  ],
+  "author": "Maxim Umblia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umbliama/template/issues"
+  },
+  "homepage": "https://github.com/umbliama/template#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-sass": "^4.0.2"
+  },
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}

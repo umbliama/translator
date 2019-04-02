@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0; }
+
+.container {
+  margin: 25vh;
+  display: flex;
+  justify-content: center; }
+
+.input {
+  outline: none;
+  font-size: 32px; }
+
+.btn {
+  padding: 0.5rem;
+  border: none;
+  outline: none;
+  font-size: 16px; }
+
+.btn-green {
+  background: green;
+  color: beige; }
+
+.select {
+  padding: 1rem;
+  font-size: 16px; }
