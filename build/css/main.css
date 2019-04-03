@@ -7,6 +7,10 @@ body {
   display: flex;
   justify-content: center; }
 
+p {
+  font-size: 20px;
+  padding: 0.5rem; }
+
 .input {
   outline: none;
   font-size: 32px; }
@@ -23,4 +27,4 @@ body {
 
 .select {
   padding: 1rem;
-  font-size: 16px; }
+  font-size: 20px; }
